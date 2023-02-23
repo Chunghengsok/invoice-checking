@@ -1,0 +1,2123 @@
+[
+    {
+        "id": "c7c916d7a34cc6f6",
+        "type": "tab",
+        "label": "report",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "ccd209df64f4fc38",
+        "type": "tab",
+        "label": "telegram total report",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "b5382dc0be536949",
+        "type": "tab",
+        "label": "check invoice",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "736d1c64b90cd97c",
+        "type": "group",
+        "z": "b5382dc0be536949",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "06a2c141d6348e93",
+            "6f32cd95ceb37d38",
+            "5422925b5dcec942",
+            "53eb2757ac20dd9a",
+            "f760894837166a5d",
+            "2ebe21e6612a7757",
+            "fa39bd40ec53e133",
+            "d1cd42c352664fc5"
+        ],
+        "x": 74,
+        "y": 19,
+        "w": 912,
+        "h": 182
+    },
+    {
+        "id": "bbf843e082af5cb0",
+        "type": "group",
+        "z": "b5382dc0be536949",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "8be7fe5568433827",
+            "e78a2045e879e627",
+            "ac04e9a871184bfc",
+            "43f358dcaefdac30",
+            "d904943ba24f1e78",
+            "a889aa2b38c21e9a",
+            "4253c76c36ec6a25",
+            "7a6ab21d2eb29475"
+        ],
+        "x": 84,
+        "y": 219,
+        "w": 682,
+        "h": 162
+    },
+    {
+        "id": "c9af42ec2e185754",
+        "type": "group",
+        "z": "b5382dc0be536949",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "cc0439754640d8dd",
+            "01e876bc72c6791e",
+            "fa27b6a3e257cc4b",
+            "6215689587c323a8",
+            "062068dd3cd24a9a",
+            "bcdf7bf4f018b7da",
+            "b6eaa96d83dcf6e6",
+            "c3f5a71f772077a9",
+            "081ad77611b16221",
+            "0b61c25387af0967",
+            "34a50e91a2f9360a",
+            "b894f0581c7776ac"
+        ],
+        "x": 84,
+        "y": 399,
+        "w": 462,
+        "h": 442
+    },
+    {
+        "id": "289ad8130eb70a47",
+        "type": "group",
+        "z": "b5382dc0be536949",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "6d2333dad87576b3",
+            "68190bffc0a571d6",
+            "ea8e2b5fb392ba23",
+            "989905cff35df839",
+            "6b605aebc84bfd91",
+            "65e57efdb91f90e3"
+        ],
+        "x": 74,
+        "y": 1059,
+        "w": 692,
+        "h": 182
+    },
+    {
+        "id": "6730468b2c7c59dc",
+        "type": "group",
+        "z": "b5382dc0be536949",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "27113d4d41a8ac2d",
+            "822acf4c188242c1",
+            "5e6d63a8c18b43a5",
+            "b7335a102820812f",
+            "3d89253c87eb35d3"
+        ],
+        "x": 84,
+        "y": 859,
+        "w": 482,
+        "h": 162
+    },
+    {
+        "id": "c27cf7f19fab8828",
+        "type": "group",
+        "z": "c7c916d7a34cc6f6",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "23a8188ebde1312a",
+            "a736e0bd136597be",
+            "58e220be44cafe5e",
+            "d04f439e5471108d",
+            "264f1e65cd309442",
+            "5be3956f83693e3d"
+        ],
+        "x": 74,
+        "y": 39,
+        "w": 812,
+        "h": 142
+    },
+    {
+        "id": "a4615acb8dae32fb",
+        "type": "group",
+        "z": "c7c916d7a34cc6f6",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "4c6bea0ac32fd48b",
+            "fb60d5448dd7e913",
+            "2a0ca4e600d32e23",
+            "3261e0ca6318a4a5",
+            "03768e1cfa20bef7",
+            "2b12522e03c884e2"
+        ],
+        "x": 74,
+        "y": 199,
+        "w": 862,
+        "h": 142
+    },
+    {
+        "id": "1609f0ad87754708",
+        "type": "group",
+        "z": "c7c916d7a34cc6f6",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "f2c1570753ef8786",
+            "be2fc6f8215bb290",
+            "326f1b09d33c363a",
+            "b9eedbd20a15c3e0",
+            "7c7898694d4a0ae6"
+        ],
+        "x": 64,
+        "y": 379,
+        "w": 692,
+        "h": 142
+    },
+    {
+        "id": "ae6a4fe4dc962ace",
+        "type": "group",
+        "z": "ccd209df64f4fc38",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "19a66ef017e99a70",
+            "f83df3cb7046ccf7",
+            "892ceb1aeec85c25",
+            "cfd971991748c803",
+            "70d370de0e68d0e3"
+        ],
+        "x": 74,
+        "y": 39,
+        "w": 702,
+        "h": 122
+    },
+    {
+        "id": "c72b43860eaeec96",
+        "type": "group",
+        "z": "ccd209df64f4fc38",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "466bfb16ef46203e",
+            "effbed278a5da2f0",
+            "3948a2dcc88f52fd",
+            "09033278b4751523",
+            "3551e29a03af6bdd",
+            "4a67cb36a32d833b",
+            "4e0cdaa4d4f628e4",
+            "c1891ecdfb82c359",
+            "a0a5b2d2fd97dbd5",
+            "a8f899ddac0df09b"
+        ],
+        "x": 74,
+        "y": 199,
+        "w": 892,
+        "h": 342
+    },
+    {
+        "id": "089f89df8d62e359",
+        "type": "ui_tab",
+        "name": "invoice",
+        "icon": "dashboard",
+        "order": 2,
+        "disabled": false,
+        "hidden": false
+    },
+    {
+        "id": "77659e304352357b",
+        "type": "ui_group",
+        "name": "barcode",
+        "tab": "089f89df8d62e359",
+        "order": 1,
+        "disp": true,
+        "width": "6",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "1ba298c29d481e06",
+        "type": "MySQLdatabase",
+        "name": "",
+        "host": "127.0.0.1",
+        "port": "3306",
+        "db": "data_registration_driver",
+        "tz": "UTC",
+        "charset": "UTF8"
+    },
+    {
+        "id": "ec57cf4abf8e2e5b",
+        "type": "ui_group",
+        "name": "display",
+        "tab": "089f89df8d62e359",
+        "order": 2,
+        "disp": true,
+        "width": 21,
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "8c07a955aed85e5e",
+        "type": "ui_base",
+        "theme": {
+            "name": "theme-light",
+            "lightTheme": {
+                "default": "#0094CE",
+                "baseColor": "#0094CE",
+                "baseFont": "-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif",
+                "edited": true,
+                "reset": false
+            },
+            "darkTheme": {
+                "default": "#097479",
+                "baseColor": "#097479",
+                "baseFont": "-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif",
+                "edited": false
+            },
+            "customTheme": {
+                "name": "Untitled Theme 1",
+                "default": "#4B7930",
+                "baseColor": "#4B7930",
+                "baseFont": "-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif"
+            },
+            "themeState": {
+                "base-color": {
+                    "default": "#0094CE",
+                    "value": "#0094CE",
+                    "edited": false
+                },
+                "page-titlebar-backgroundColor": {
+                    "value": "#0094CE",
+                    "edited": false
+                },
+                "page-backgroundColor": {
+                    "value": "#fafafa",
+                    "edited": false
+                },
+                "page-sidebar-backgroundColor": {
+                    "value": "#ffffff",
+                    "edited": false
+                },
+                "group-textColor": {
+                    "value": "#1bbfff",
+                    "edited": false
+                },
+                "group-borderColor": {
+                    "value": "#ffffff",
+                    "edited": false
+                },
+                "group-backgroundColor": {
+                    "value": "#ffffff",
+                    "edited": false
+                },
+                "widget-textColor": {
+                    "value": "#111111",
+                    "edited": false
+                },
+                "widget-backgroundColor": {
+                    "value": "#0094ce",
+                    "edited": false
+                },
+                "widget-borderColor": {
+                    "value": "#ffffff",
+                    "edited": false
+                },
+                "base-font": {
+                    "value": "-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif"
+                }
+            },
+            "angularTheme": {
+                "primary": "indigo",
+                "accents": "blue",
+                "warn": "red",
+                "background": "grey",
+                "palette": "light"
+            }
+        },
+        "site": {
+            "name": "Node-RED Dashboard",
+            "hideToolbar": "false",
+            "allowSwipe": "false",
+            "lockMenu": "false",
+            "allowTempTheme": "true",
+            "dateFormat": "DD/MM/YYYY",
+            "sizes": {
+                "sx": 48,
+                "sy": 48,
+                "gx": 6,
+                "gy": 6,
+                "cx": 6,
+                "cy": 6,
+                "px": 0,
+                "py": 0
+            }
+        }
+    },
+    {
+        "id": "902e8b313beacab1",
+        "type": "ui_tab",
+        "name": "report",
+        "icon": "dashboard",
+        "order": 1,
+        "disabled": false,
+        "hidden": false
+    },
+    {
+        "id": "b77bc3967d802956",
+        "type": "ui_group",
+        "name": "date filter",
+        "tab": "902e8b313beacab1",
+        "order": 1,
+        "disp": true,
+        "width": 12,
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "936be667518e1574",
+        "type": "ui_spacer",
+        "z": "c7c916d7a34cc6f6",
+        "name": "spacer",
+        "group": "ec57cf4abf8e2e5b",
+        "order": 2,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "69c66ea2698075a2",
+        "type": "ui_spacer",
+        "z": "c7c916d7a34cc6f6",
+        "name": "spacer",
+        "group": "ec57cf4abf8e2e5b",
+        "order": 4,
+        "width": 2,
+        "height": 1
+    },
+    {
+        "id": "4f1db929f6bb6600",
+        "type": "ui_spacer",
+        "z": "c7c916d7a34cc6f6",
+        "name": "spacer",
+        "group": "ec57cf4abf8e2e5b",
+        "order": 5,
+        "width": 21,
+        "height": 1
+    },
+    {
+        "id": "25632e8ca6d35b82",
+        "type": "ui_spacer",
+        "z": "c7c916d7a34cc6f6",
+        "name": "spacer",
+        "group": "ec57cf4abf8e2e5b",
+        "order": 7,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "423023d0bd9df26a",
+        "type": "ui_spacer",
+        "z": "c7c916d7a34cc6f6",
+        "name": "spacer",
+        "group": "ec57cf4abf8e2e5b",
+        "order": 10,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "c806b9415848c7bd",
+        "type": "ui_spacer",
+        "z": "c7c916d7a34cc6f6",
+        "name": "spacer",
+        "group": "ec57cf4abf8e2e5b",
+        "order": 13,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "2e0d236d29f2e5dc",
+        "type": "ui_spacer",
+        "z": "c7c916d7a34cc6f6",
+        "name": "spacer",
+        "group": "ec57cf4abf8e2e5b",
+        "order": 16,
+        "width": 11,
+        "height": 1
+    },
+    {
+        "id": "dbf00734753b3260",
+        "type": "ui_spacer",
+        "z": "c7c916d7a34cc6f6",
+        "name": "spacer",
+        "group": "ec57cf4abf8e2e5b",
+        "order": 17,
+        "width": 21,
+        "height": 1
+    },
+    {
+        "id": "259ed0b15231222d",
+        "type": "ui_spacer",
+        "z": "c7c916d7a34cc6f6",
+        "name": "spacer",
+        "group": "ec57cf4abf8e2e5b",
+        "order": 19,
+        "width": 14,
+        "height": 1
+    },
+    {
+        "id": "caaef2130a5c47c1",
+        "type": "ui_spacer",
+        "z": "c7c916d7a34cc6f6",
+        "name": "spacer",
+        "group": "ec57cf4abf8e2e5b",
+        "order": 21,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "2acebac68074b672",
+        "type": "ui_spacer",
+        "z": "c7c916d7a34cc6f6",
+        "name": "spacer",
+        "group": "ec57cf4abf8e2e5b",
+        "order": 22,
+        "width": 14,
+        "height": 1
+    },
+    {
+        "id": "c4a2f4eed9635083",
+        "type": "ui_spacer",
+        "z": "c7c916d7a34cc6f6",
+        "name": "spacer",
+        "group": "ec57cf4abf8e2e5b",
+        "order": 23,
+        "width": 14,
+        "height": 1
+    },
+    {
+        "id": "fa34a0560f36f7e4",
+        "type": "telegram bot",
+        "botname": "invoiceReportBot",
+        "usernames": "",
+        "chatids": "",
+        "baseapiurl": "",
+        "updatemode": "polling",
+        "pollinterval": "300",
+        "usesocks": false,
+        "sockshost": "",
+        "socksprotocol": "socks5",
+        "socksport": "6667",
+        "socksusername": "anonymous",
+        "sockspassword": "",
+        "bothost": "",
+        "botpath": "",
+        "localbotport": "8443",
+        "publicbotport": "8443",
+        "privatekey": "",
+        "certificate": "",
+        "useselfsignedcertificate": false,
+        "sslterminated": false,
+        "verboselogging": false
+    },
+    {
+        "id": "23a8188ebde1312a",
+        "type": "comment",
+        "z": "c7c916d7a34cc6f6",
+        "g": "c27cf7f19fab8828",
+        "name": "date filter",
+        "info": "",
+        "x": 160,
+        "y": 80,
+        "wires": []
+    },
+    {
+        "id": "a736e0bd136597be",
+        "type": "ui_date_picker",
+        "z": "c7c916d7a34cc6f6",
+        "g": "c27cf7f19fab8828",
+        "name": "",
+        "label": "កាលបរិច្ឆេទ",
+        "group": "b77bc3967d802956",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "passthru": true,
+        "topic": "topic",
+        "topicType": "msg",
+        "className": "",
+        "x": 170,
+        "y": 140,
+        "wires": [
+            [
+                "d04f439e5471108d",
+                "264f1e65cd309442"
+            ]
+        ]
+    },
+    {
+        "id": "58e220be44cafe5e",
+        "type": "function",
+        "z": "c7c916d7a34cc6f6",
+        "g": "c27cf7f19fab8828",
+        "name": "set filter date",
+        "func": "flow.set('filter_date', msg.payload);\nvar date = flow.get('filter_date');\nmsg.payload\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 610,
+        "y": 140,
+        "wires": [
+            [
+                "5be3956f83693e3d"
+            ]
+        ]
+    },
+    {
+        "id": "4c6bea0ac32fd48b",
+        "type": "comment",
+        "z": "c7c916d7a34cc6f6",
+        "g": "a4615acb8dae32fb",
+        "name": "filter invoice",
+        "info": "",
+        "x": 190,
+        "y": 240,
+        "wires": []
+    },
+    {
+        "id": "fb60d5448dd7e913",
+        "type": "function",
+        "z": "c7c916d7a34cc6f6",
+        "g": "a4615acb8dae32fb",
+        "name": "invoice table",
+        "func": "var date = flow.get('filter_date');\nmsg.topic = \"SELECT * FROM data_registration_driver.invoice where date = '\"+date+\"';\"\n// msg.topic = \"SELECT * FROM data_registration_driver.invoice where date = '2023-02-22';\"\n// msg.payload = date;\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 330,
+        "y": 300,
+        "wires": [
+            [
+                "2a0ca4e600d32e23"
+            ]
+        ]
+    },
+    {
+        "id": "2a0ca4e600d32e23",
+        "type": "mysql",
+        "z": "c7c916d7a34cc6f6",
+        "g": "a4615acb8dae32fb",
+        "mydb": "1ba298c29d481e06",
+        "name": "",
+        "x": 570,
+        "y": 300,
+        "wires": [
+            [
+                "03768e1cfa20bef7"
+            ]
+        ]
+    },
+    {
+        "id": "3261e0ca6318a4a5",
+        "type": "ui_button",
+        "z": "c7c916d7a34cc6f6",
+        "g": "a4615acb8dae32fb",
+        "name": "",
+        "group": "b77bc3967d802956",
+        "order": 2,
+        "width": 0,
+        "height": 0,
+        "passthru": false,
+        "label": "ស្វែងរក",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "blue",
+        "className": "",
+        "icon": "",
+        "payload": "",
+        "payloadType": "str",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 160,
+        "y": 300,
+        "wires": [
+            [
+                "fb60d5448dd7e913"
+            ]
+        ]
+    },
+    {
+        "id": "03768e1cfa20bef7",
+        "type": "ui_table",
+        "z": "c7c916d7a34cc6f6",
+        "g": "a4615acb8dae32fb",
+        "group": "b77bc3967d802956",
+        "name": "",
+        "order": 3,
+        "width": 12,
+        "height": 11,
+        "columns": [
+            {
+                "field": "customer_name",
+                "title": "ឈ្មោះ",
+                "width": "",
+                "align": "left",
+                "formatter": "plaintext",
+                "formatterParams": {
+                    "target": "_blank"
+                }
+            },
+            {
+                "field": "date",
+                "title": "កាលបរិច្ឆេទ",
+                "width": "",
+                "align": "left",
+                "formatter": "plaintext",
+                "formatterParams": {
+                    "target": "_blank"
+                }
+            },
+            {
+                "field": "ice_tube",
+                "title": "ទឺកកកអនាម័យ",
+                "width": "",
+                "align": "left",
+                "formatter": "plaintext",
+                "formatterParams": {
+                    "target": "_blank"
+                }
+            },
+            {
+                "field": "ice_block",
+                "title": "ទឺកកកដើម",
+                "width": "",
+                "align": "left",
+                "formatter": "plaintext",
+                "formatterParams": {
+                    "target": "_blank"
+                }
+            },
+            {
+                "field": "bag",
+                "title": "បាវ",
+                "width": "",
+                "align": "left",
+                "formatter": "plaintext",
+                "formatterParams": {
+                    "target": "_blank"
+                }
+            },
+            {
+                "field": "barcode",
+                "title": "បាកូត",
+                "width": "",
+                "align": "left",
+                "formatter": "plaintext",
+                "formatterParams": {
+                    "target": "_blank"
+                }
+            },
+            {
+                "field": "paid_not",
+                "title": "Paid",
+                "width": "",
+                "align": "left",
+                "formatter": "tickCross",
+                "formatterParams": {
+                    "target": "_blank"
+                }
+            }
+        ],
+        "outputs": 1,
+        "cts": true,
+        "x": 770,
+        "y": 300,
+        "wires": [
+            [
+                "2b12522e03c884e2"
+            ]
+        ]
+    },
+    {
+        "id": "d04f439e5471108d",
+        "type": "debug",
+        "z": "c7c916d7a34cc6f6",
+        "g": "c27cf7f19fab8828",
+        "name": "debug 4",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 380,
+        "y": 80,
+        "wires": []
+    },
+    {
+        "id": "264f1e65cd309442",
+        "type": "date-converter",
+        "z": "c7c916d7a34cc6f6",
+        "g": "c27cf7f19fab8828",
+        "name": "",
+        "topic": "",
+        "input": "payload",
+        "inputType": "msg",
+        "inTz": "ETC/GMT",
+        "adjAmount": "0",
+        "adjType": "days",
+        "adjDir": "add",
+        "format": "ISO",
+        "locale": "",
+        "output": "payload",
+        "outputType": "msg",
+        "outTz": "",
+        "x": 400,
+        "y": 140,
+        "wires": [
+            [
+                "58e220be44cafe5e"
+            ],
+            []
+        ]
+    },
+    {
+        "id": "5be3956f83693e3d",
+        "type": "debug",
+        "z": "c7c916d7a34cc6f6",
+        "g": "c27cf7f19fab8828",
+        "name": "debug 6",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 780,
+        "y": 140,
+        "wires": []
+    },
+    {
+        "id": "f2c1570753ef8786",
+        "type": "comment",
+        "z": "c7c916d7a34cc6f6",
+        "g": "1609f0ad87754708",
+        "name": "filter by name",
+        "info": "",
+        "x": 170,
+        "y": 420,
+        "wires": []
+    },
+    {
+        "id": "be2fc6f8215bb290",
+        "type": "function",
+        "z": "c7c916d7a34cc6f6",
+        "g": "1609f0ad87754708",
+        "name": "filter by rfid",
+        "func": "var rfid = msg.payload.rfid;\n\nmsg.topic = \"SELECT * FROM data_registration_driver.invoice where rfid= '\"+rfid+\"';\"\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 220,
+        "y": 480,
+        "wires": [
+            [
+                "326f1b09d33c363a"
+            ]
+        ]
+    },
+    {
+        "id": "326f1b09d33c363a",
+        "type": "mysql",
+        "z": "c7c916d7a34cc6f6",
+        "g": "1609f0ad87754708",
+        "mydb": "1ba298c29d481e06",
+        "name": "",
+        "x": 460,
+        "y": 480,
+        "wires": [
+            [
+                "b9eedbd20a15c3e0"
+            ]
+        ]
+    },
+    {
+        "id": "b9eedbd20a15c3e0",
+        "type": "ui_table",
+        "z": "c7c916d7a34cc6f6",
+        "g": "1609f0ad87754708",
+        "group": "b77bc3967d802956",
+        "name": "",
+        "order": 4,
+        "width": 12,
+        "height": 11,
+        "columns": [
+            {
+                "field": "customer_name",
+                "title": "ឈ្មោះ",
+                "width": "",
+                "align": "left",
+                "formatter": "plaintext",
+                "formatterParams": {
+                    "target": "_blank"
+                }
+            },
+            {
+                "field": "date",
+                "title": "កាលបរិច្ឆេទ",
+                "width": "",
+                "align": "left",
+                "formatter": "plaintext",
+                "formatterParams": {
+                    "target": "_blank"
+                }
+            },
+            {
+                "field": "ice_tube",
+                "title": "ទឺកកកអនាម័យ",
+                "width": "",
+                "align": "left",
+                "formatter": "plaintext",
+                "formatterParams": {
+                    "target": "_blank"
+                }
+            },
+            {
+                "field": "ice_block",
+                "title": "ទឺកកកដើម",
+                "width": "",
+                "align": "left",
+                "formatter": "plaintext",
+                "formatterParams": {
+                    "target": "_blank"
+                }
+            },
+            {
+                "field": "bag",
+                "title": "បាវ",
+                "width": "",
+                "align": "left",
+                "formatter": "plaintext",
+                "formatterParams": {
+                    "target": "_blank"
+                }
+            },
+            {
+                "field": "barcode",
+                "title": "បាកូត",
+                "width": "",
+                "align": "left",
+                "formatter": "plaintext",
+                "formatterParams": {
+                    "target": "_blank"
+                }
+            },
+            {
+                "field": "paid_not",
+                "title": "Paid",
+                "width": "",
+                "align": "left",
+                "formatter": "tickCross",
+                "formatterParams": {
+                    "target": "_blank"
+                }
+            }
+        ],
+        "outputs": 1,
+        "cts": true,
+        "x": 680,
+        "y": 480,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "7c7898694d4a0ae6",
+        "type": "link in",
+        "z": "c7c916d7a34cc6f6",
+        "g": "1609f0ad87754708",
+        "name": "rfid select on table",
+        "links": [
+            "2b12522e03c884e2"
+        ],
+        "x": 105,
+        "y": 480,
+        "wires": [
+            [
+                "be2fc6f8215bb290"
+            ]
+        ]
+    },
+    {
+        "id": "2b12522e03c884e2",
+        "type": "link out",
+        "z": "c7c916d7a34cc6f6",
+        "g": "a4615acb8dae32fb",
+        "name": "rfid ",
+        "mode": "link",
+        "links": [
+            "7c7898694d4a0ae6"
+        ],
+        "x": 895,
+        "y": 260,
+        "wires": []
+    },
+    {
+        "id": "466bfb16ef46203e",
+        "type": "function",
+        "z": "ccd209df64f4fc38",
+        "g": "c72b43860eaeec96",
+        "name": "get data as of date",
+        "func": "var date = global.get('cur_date');\n// msg.topic = \"select sum(ice_tube), sum(ice_block) from invoice where date ='\"+date+\"' \"\nmsg.topic = \"select SUM(ice_tube), SUM(ice_block) from invoice where date ='2023-02-19' \"\n\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 230,
+        "y": 300,
+        "wires": [
+            [
+                "4a67cb36a32d833b"
+            ]
+        ]
+    },
+    {
+        "id": "effbed278a5da2f0",
+        "type": "comment",
+        "z": "ccd209df64f4fc38",
+        "g": "c72b43860eaeec96",
+        "name": "get the data from table ",
+        "info": "",
+        "x": 200,
+        "y": 240,
+        "wires": []
+    },
+    {
+        "id": "19a66ef017e99a70",
+        "type": "simpletime",
+        "z": "ccd209df64f4fc38",
+        "g": "ae6a4fe4dc962ace",
+        "name": "",
+        "mydate": false,
+        "myymd": true,
+        "myyear": false,
+        "mymonth": false,
+        "mymonthn": false,
+        "mydom": false,
+        "mydoy": false,
+        "myday": false,
+        "myhourpm": false,
+        "myhour": false,
+        "mytime": false,
+        "mytimes": true,
+        "myminute": false,
+        "myminutes": false,
+        "mysecond": false,
+        "mymillis": false,
+        "myepoch": false,
+        "myrawdate": false,
+        "mypm": false,
+        "x": 350,
+        "y": 120,
+        "wires": [
+            [
+                "70d370de0e68d0e3"
+            ]
+        ]
+    },
+    {
+        "id": "f83df3cb7046ccf7",
+        "type": "inject",
+        "z": "ccd209df64f4fc38",
+        "g": "ae6a4fe4dc962ace",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "1",
+        "crontab": "",
+        "once": true,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 190,
+        "y": 120,
+        "wires": [
+            [
+                "19a66ef017e99a70"
+            ]
+        ]
+    },
+    {
+        "id": "892ceb1aeec85c25",
+        "type": "comment",
+        "z": "ccd209df64f4fc38",
+        "g": "ae6a4fe4dc962ace",
+        "name": "generate date",
+        "info": "",
+        "x": 180,
+        "y": 80,
+        "wires": []
+    },
+    {
+        "id": "cfd971991748c803",
+        "type": "debug",
+        "z": "ccd209df64f4fc38",
+        "g": "ae6a4fe4dc962ace",
+        "name": "debug 7",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 670,
+        "y": 120,
+        "wires": []
+    },
+    {
+        "id": "70d370de0e68d0e3",
+        "type": "function",
+        "z": "ccd209df64f4fc38",
+        "g": "ae6a4fe4dc962ace",
+        "name": "function 1",
+        "func": "global.set('cur_date', msg.myymd );\nglobal.set('cur_time', msg.mytimes );\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 520,
+        "y": 120,
+        "wires": [
+            [
+                "cfd971991748c803"
+            ]
+        ]
+    },
+    {
+        "id": "3948a2dcc88f52fd",
+        "type": "debug",
+        "z": "ccd209df64f4fc38",
+        "g": "c72b43860eaeec96",
+        "name": "debug 8",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 860,
+        "y": 500,
+        "wires": []
+    },
+    {
+        "id": "09033278b4751523",
+        "type": "telegram sender",
+        "z": "ccd209df64f4fc38",
+        "g": "c72b43860eaeec96",
+        "name": "",
+        "bot": "fa34a0560f36f7e4",
+        "haserroroutput": false,
+        "outputs": 1,
+        "x": 670,
+        "y": 500,
+        "wires": [
+            [
+                "3948a2dcc88f52fd"
+            ]
+        ]
+    },
+    {
+        "id": "3551e29a03af6bdd",
+        "type": "function",
+        "z": "ccd209df64f4fc38",
+        "g": "c72b43860eaeec96",
+        "name": "function 2",
+        "func": "var content  = msg.payload\nmsg.payload = {};\nmsg.payload.chatId = 297549708;\nmsg.payload.type = \"message\";\nmsg.payload.content = content;\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 460,
+        "y": 500,
+        "wires": [
+            [
+                "09033278b4751523"
+            ]
+        ]
+    },
+    {
+        "id": "4a67cb36a32d833b",
+        "type": "mysql",
+        "z": "ccd209df64f4fc38",
+        "g": "c72b43860eaeec96",
+        "mydb": "1ba298c29d481e06",
+        "name": "",
+        "x": 490,
+        "y": 300,
+        "wires": [
+            [
+                "4e0cdaa4d4f628e4",
+                "a0a5b2d2fd97dbd5"
+            ]
+        ]
+    },
+    {
+        "id": "4e0cdaa4d4f628e4",
+        "type": "debug",
+        "z": "ccd209df64f4fc38",
+        "g": "c72b43860eaeec96",
+        "name": "debug 10",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 700,
+        "y": 300,
+        "wires": []
+    },
+    {
+        "id": "c1891ecdfb82c359",
+        "type": "inject",
+        "z": "ccd209df64f4fc38",
+        "g": "c72b43860eaeec96",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "07 22 * * *",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 190,
+        "y": 400,
+        "wires": [
+            [
+                "466bfb16ef46203e"
+            ]
+        ]
+    },
+    {
+        "id": "a0a5b2d2fd97dbd5",
+        "type": "function",
+        "z": "ccd209df64f4fc38",
+        "g": "c72b43860eaeec96",
+        "name": "function 3",
+        "func": "// var msg1 = { payload: \"ទឺកកកអនាម័យ \" + msg.payload[0][\"SUM(ice_tube)\"] };\n// var msg2 = { payload: \"ទឺកកកដើម \" + msg.payload[0][\"SUM(ice_block)\"] };\nvar current_date = global.get('cur_date');\n\nvar data = current_date +  \" ទឺកកកអនាម័យ \" + msg.payload[0][\"SUM(ice_tube)\"] + \"  ទឺកកកដើម \" + msg.payload[0][\"SUM(ice_block)\"]\n\n\nmsg.payload = data.toString();\n\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 440,
+        "y": 400,
+        "wires": [
+            [
+                "a8f899ddac0df09b",
+                "3551e29a03af6bdd"
+            ]
+        ]
+    },
+    {
+        "id": "a8f899ddac0df09b",
+        "type": "debug",
+        "z": "ccd209df64f4fc38",
+        "g": "c72b43860eaeec96",
+        "name": "debug 11",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 720,
+        "y": 400,
+        "wires": []
+    },
+    {
+        "id": "06a2c141d6348e93",
+        "type": "ui_text_input",
+        "z": "b5382dc0be536949",
+        "g": "736d1c64b90cd97c",
+        "name": "",
+        "label": "Barcode reader",
+        "tooltip": "",
+        "group": "77659e304352357b",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "passthru": true,
+        "mode": "number",
+        "delay": 300,
+        "topic": "topic",
+        "sendOnBlur": true,
+        "className": "",
+        "topicType": "msg",
+        "x": 180,
+        "y": 120,
+        "wires": [
+            [
+                "6f32cd95ceb37d38"
+            ]
+        ]
+    },
+    {
+        "id": "6f32cd95ceb37d38",
+        "type": "function",
+        "z": "b5382dc0be536949",
+        "g": "736d1c64b90cd97c",
+        "name": "read barcode",
+        "func": "// global.set('barcode',msg.payload);// record the barcode\n\nvar barcode = msg.payload;\n\nmsg.topic = \"SELECT * FROM data_registration_driver.invoice where barcode = \"+barcode+\";\"\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 370,
+        "y": 120,
+        "wires": [
+            [
+                "5422925b5dcec942"
+            ]
+        ]
+    },
+    {
+        "id": "5422925b5dcec942",
+        "type": "mysql",
+        "z": "b5382dc0be536949",
+        "g": "736d1c64b90cd97c",
+        "mydb": "1ba298c29d481e06",
+        "name": "",
+        "x": 580,
+        "y": 120,
+        "wires": [
+            [
+                "53eb2757ac20dd9a",
+                "2ebe21e6612a7757"
+            ]
+        ]
+    },
+    {
+        "id": "53eb2757ac20dd9a",
+        "type": "debug",
+        "z": "b5382dc0be536949",
+        "g": "736d1c64b90cd97c",
+        "name": "debug 1",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 880,
+        "y": 120,
+        "wires": []
+    },
+    {
+        "id": "f760894837166a5d",
+        "type": "comment",
+        "z": "b5382dc0be536949",
+        "g": "736d1c64b90cd97c",
+        "name": "get data from the table by barcode",
+        "info": "",
+        "x": 260,
+        "y": 60,
+        "wires": []
+    },
+    {
+        "id": "2ebe21e6612a7757",
+        "type": "link out",
+        "z": "b5382dc0be536949",
+        "g": "736d1c64b90cd97c",
+        "name": "invoice table ",
+        "mode": "link",
+        "links": [
+            "8be7fe5568433827"
+        ],
+        "x": 745,
+        "y": 160,
+        "wires": []
+    },
+    {
+        "id": "cc0439754640d8dd",
+        "type": "comment",
+        "z": "b5382dc0be536949",
+        "g": "c9af42ec2e185754",
+        "name": "display ",
+        "info": "",
+        "x": 170,
+        "y": 440,
+        "wires": []
+    },
+    {
+        "id": "01e876bc72c6791e",
+        "type": "ui_text",
+        "z": "b5382dc0be536949",
+        "g": "c9af42ec2e185754",
+        "group": "ec57cf4abf8e2e5b",
+        "order": 1,
+        "width": 9,
+        "height": 1,
+        "name": "",
+        "label": "ឈ្មោះ",
+        "format": "{{msg.payload}}",
+        "layout": "row-left",
+        "className": "display",
+        "x": 410,
+        "y": 480,
+        "wires": []
+    },
+    {
+        "id": "fa27b6a3e257cc4b",
+        "type": "ui_text",
+        "z": "b5382dc0be536949",
+        "g": "c9af42ec2e185754",
+        "group": "ec57cf4abf8e2e5b",
+        "order": 3,
+        "width": 9,
+        "height": 1,
+        "name": "",
+        "label": "កាលបរិច្ឆេទ",
+        "format": "{{msg.payload}}",
+        "layout": "row-left",
+        "className": "display",
+        "x": 430,
+        "y": 520,
+        "wires": []
+    },
+    {
+        "id": "6215689587c323a8",
+        "type": "ui_text",
+        "z": "b5382dc0be536949",
+        "g": "c9af42ec2e185754",
+        "group": "ec57cf4abf8e2e5b",
+        "order": 6,
+        "width": 10,
+        "height": 1,
+        "name": "",
+        "label": "ទឺកកកអនាម័យ",
+        "format": "{{msg.payload}}",
+        "layout": "row-left",
+        "className": "display",
+        "x": 440,
+        "y": 560,
+        "wires": []
+    },
+    {
+        "id": "062068dd3cd24a9a",
+        "type": "ui_text",
+        "z": "b5382dc0be536949",
+        "g": "c9af42ec2e185754",
+        "group": "ec57cf4abf8e2e5b",
+        "order": 9,
+        "width": 10,
+        "height": 1,
+        "name": "",
+        "label": "ទឺកកកដើម",
+        "format": "{{msg.payload}}",
+        "layout": "row-left",
+        "className": "display",
+        "x": 430,
+        "y": 600,
+        "wires": []
+    },
+    {
+        "id": "bcdf7bf4f018b7da",
+        "type": "ui_text",
+        "z": "b5382dc0be536949",
+        "g": "c9af42ec2e185754",
+        "group": "ec57cf4abf8e2e5b",
+        "order": 12,
+        "width": 10,
+        "height": 1,
+        "name": "",
+        "label": "បាវ",
+        "format": "{{msg.payload}}",
+        "layout": "row-left",
+        "className": "display",
+        "x": 450,
+        "y": 640,
+        "wires": []
+    },
+    {
+        "id": "b6eaa96d83dcf6e6",
+        "type": "ui_text",
+        "z": "b5382dc0be536949",
+        "g": "c9af42ec2e185754",
+        "group": "ec57cf4abf8e2e5b",
+        "order": 15,
+        "width": 10,
+        "height": 1,
+        "name": "",
+        "label": "សរុប",
+        "format": "{{msg.payload}}",
+        "layout": "row-left",
+        "className": "display",
+        "x": 450,
+        "y": 680,
+        "wires": []
+    },
+    {
+        "id": "c3f5a71f772077a9",
+        "type": "ui_text",
+        "z": "b5382dc0be536949",
+        "g": "c9af42ec2e185754",
+        "group": "ec57cf4abf8e2e5b",
+        "order": 8,
+        "width": 10,
+        "height": 1,
+        "name": "",
+        "label": "ទឺកកកអនាម័យ",
+        "format": "{{msg.payload}}",
+        "layout": "row-left",
+        "className": "display",
+        "x": 440,
+        "y": 720,
+        "wires": []
+    },
+    {
+        "id": "081ad77611b16221",
+        "type": "ui_text",
+        "z": "b5382dc0be536949",
+        "g": "c9af42ec2e185754",
+        "group": "ec57cf4abf8e2e5b",
+        "order": 11,
+        "width": 10,
+        "height": 1,
+        "name": "",
+        "label": "ទឺកកកដើម",
+        "format": "{{msg.payload}}",
+        "layout": "row-left",
+        "className": "display",
+        "x": 430,
+        "y": 760,
+        "wires": []
+    },
+    {
+        "id": "0b61c25387af0967",
+        "type": "ui_text",
+        "z": "b5382dc0be536949",
+        "g": "c9af42ec2e185754",
+        "group": "ec57cf4abf8e2e5b",
+        "order": 14,
+        "width": 10,
+        "height": 1,
+        "name": "",
+        "label": "បាវ",
+        "format": "{{msg.payload}}",
+        "layout": "row-left",
+        "className": "display",
+        "x": 410,
+        "y": 800,
+        "wires": []
+    },
+    {
+        "id": "34a50e91a2f9360a",
+        "type": "function",
+        "z": "b5382dc0be536949",
+        "g": "c9af42ec2e185754",
+        "name": "get global variable",
+        "func": "const formarter = new Intl.NumberFormat('en-US',{\n    style: 'currency',\n    currency: 'KHR',\n    maximumFractionDigits: 0,\n    minimumFractionDigits: 0\n})\n\n\nvar customer_name ={payload: global.get('customer_name')};\nvar date = {payload: global.get('date')};\nvar ice_block ={payload: global.get('ice_block')};\nvar ice_tube ={payload: global.get('ice_tube')};\nvar weight_in = {payload:global.get('weight_in')};\nvar weight_out = {payload:global.get('weight_out')};\nvar net_weight = {payload:global.get('net_weight')};\nvar bag = {payload:global.get('bag')};\n\nvar bag_cost = global.get('bag_cost')\nvar ice_tube_cost = global.get('ice_tube_cost')\nvar ice_block_cost = global.get('ice_block_cost')\n\nvar total = formarter.format( bag_cost + ice_block_cost + ice_tube_cost);\n\nvar bag_cost_KH = formarter.format(bag_cost) ;\nvar ice_tube_cost_KH = formarter.format(ice_tube_cost);\nvar ice_block_cost_KH = formarter.format(ice_block_cost) ;\n\n\n\nvar msg1 = {payload: ice_block_cost_KH};\nvar msg2 = { payload:ice_tube_cost_KH};\nvar msg3 = { payload:bag_cost_KH};\nvar total_KH = {payload: total};\n\n\n// var msg1 = {payload:}\nreturn [customer_name, date, msg2, msg1 , msg3 , total_KH , ice_tube , ice_block , bag];",
+        "outputs": 9,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 210,
+        "y": 600,
+        "wires": [
+            [
+                "01e876bc72c6791e"
+            ],
+            [
+                "fa27b6a3e257cc4b"
+            ],
+            [
+                "6215689587c323a8"
+            ],
+            [
+                "062068dd3cd24a9a"
+            ],
+            [
+                "bcdf7bf4f018b7da"
+            ],
+            [
+                "b6eaa96d83dcf6e6"
+            ],
+            [
+                "c3f5a71f772077a9"
+            ],
+            [
+                "081ad77611b16221"
+            ],
+            [
+                "0b61c25387af0967"
+            ]
+        ]
+    },
+    {
+        "id": "8be7fe5568433827",
+        "type": "link in",
+        "z": "b5382dc0be536949",
+        "g": "bbf843e082af5cb0",
+        "name": "record the data ",
+        "links": [
+            "2ebe21e6612a7757",
+            "1e0a372b1271e6b6"
+        ],
+        "x": 125,
+        "y": 300,
+        "wires": [
+            [
+                "43f358dcaefdac30",
+                "e78a2045e879e627"
+            ]
+        ]
+    },
+    {
+        "id": "e78a2045e879e627",
+        "type": "function",
+        "z": "b5382dc0be536949",
+        "g": "bbf843e082af5cb0",
+        "name": "global variable for invoice",
+        "func": "global.set('customer_name', msg.payload[0].customer_name)\nglobal.set('ice_tube', msg.payload[0].ice_tube)\nglobal.set('ice_block', msg.payload[0].ice_block)\nglobal.set('bag', msg.payload[0].bag)\nglobal.set('ice_tube_cost', msg.payload[0].ice_tube_cost)\nglobal.set('ice_block_cost', msg.payload[0].ice_block_cost)\nglobal.set('bag_cost', msg.payload[0].bag_cost)\nglobal.set('paid', msg.payload[0].paid_not)\nglobal.set('weight_in', msg.payload[0].weight_in)\nglobal.set('weight_out', msg.payload[0].weight_out)\nglobal.set('net_weight', msg.payload[0].weight_net)\nglobal.set('barcode', msg.payload[0].barcode)\n\n\n\n\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 300,
+        "y": 300,
+        "wires": [
+            [
+                "4253c76c36ec6a25"
+            ]
+        ]
+    },
+    {
+        "id": "ac04e9a871184bfc",
+        "type": "simpletime",
+        "z": "b5382dc0be536949",
+        "g": "bbf843e082af5cb0",
+        "name": "",
+        "mydate": false,
+        "myymd": true,
+        "myyear": false,
+        "mymonth": false,
+        "mymonthn": false,
+        "mydom": false,
+        "mydoy": false,
+        "myday": false,
+        "myhourpm": false,
+        "myhour": false,
+        "mytime": false,
+        "mytimes": false,
+        "myminute": false,
+        "myminutes": false,
+        "mysecond": false,
+        "mymillis": false,
+        "myepoch": false,
+        "myrawdate": false,
+        "mypm": false,
+        "x": 410,
+        "y": 340,
+        "wires": [
+            [
+                "d904943ba24f1e78"
+            ]
+        ]
+    },
+    {
+        "id": "43f358dcaefdac30",
+        "type": "function",
+        "z": "b5382dc0be536949",
+        "g": "bbf843e082af5cb0",
+        "name": "date",
+        "func": "\nmsg.payload = msg.payload[0].date;\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 250,
+        "y": 340,
+        "wires": [
+            [
+                "ac04e9a871184bfc"
+            ]
+        ]
+    },
+    {
+        "id": "d904943ba24f1e78",
+        "type": "function",
+        "z": "b5382dc0be536949",
+        "g": "bbf843e082af5cb0",
+        "name": "set global variable date",
+        "func": "global.set('date', msg.myymd );\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 630,
+        "y": 340,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "a889aa2b38c21e9a",
+        "type": "comment",
+        "z": "b5382dc0be536949",
+        "g": "bbf843e082af5cb0",
+        "name": "set global variable ",
+        "info": "",
+        "x": 210,
+        "y": 260,
+        "wires": []
+    },
+    {
+        "id": "4253c76c36ec6a25",
+        "type": "switch",
+        "z": "b5382dc0be536949",
+        "g": "bbf843e082af5cb0",
+        "name": "",
+        "property": "payload[0]",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "nnull"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 500,
+        "y": 300,
+        "wires": [
+            [
+                "7a6ab21d2eb29475"
+            ]
+        ]
+    },
+    {
+        "id": "7a6ab21d2eb29475",
+        "type": "link out",
+        "z": "b5382dc0be536949",
+        "g": "bbf843e082af5cb0",
+        "name": "link to display",
+        "mode": "link",
+        "links": [
+            "b894f0581c7776ac",
+            "5e6d63a8c18b43a5"
+        ],
+        "x": 655,
+        "y": 300,
+        "wires": []
+    },
+    {
+        "id": "b894f0581c7776ac",
+        "type": "link in",
+        "z": "b5382dc0be536949",
+        "g": "c9af42ec2e185754",
+        "name": "link from global variable",
+        "links": [
+            "7a6ab21d2eb29475"
+        ],
+        "x": 125,
+        "y": 720,
+        "wires": [
+            [
+                "34a50e91a2f9360a"
+            ]
+        ]
+    },
+    {
+        "id": "6d2333dad87576b3",
+        "type": "comment",
+        "z": "b5382dc0be536949",
+        "g": "289ad8130eb70a47",
+        "name": "BTN Piad / NOT",
+        "info": "",
+        "x": 180,
+        "y": 1100,
+        "wires": []
+    },
+    {
+        "id": "68190bffc0a571d6",
+        "type": "ui_button",
+        "z": "b5382dc0be536949",
+        "g": "289ad8130eb70a47",
+        "name": "",
+        "group": "77659e304352357b",
+        "order": 2,
+        "width": 0,
+        "height": 0,
+        "passthru": false,
+        "label": "សង",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "green",
+        "className": "btn",
+        "icon": "",
+        "payload": "1",
+        "payloadType": "num",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 170,
+        "y": 1140,
+        "wires": [
+            [
+                "989905cff35df839"
+            ]
+        ]
+    },
+    {
+        "id": "ea8e2b5fb392ba23",
+        "type": "ui_button",
+        "z": "b5382dc0be536949",
+        "g": "289ad8130eb70a47",
+        "name": "",
+        "group": "77659e304352357b",
+        "order": 3,
+        "width": 0,
+        "height": 0,
+        "passthru": false,
+        "label": "មិនទាន់សង",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "red",
+        "className": "btn",
+        "icon": "",
+        "payload": "0",
+        "payloadType": "num",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 190,
+        "y": 1180,
+        "wires": [
+            [
+                "989905cff35df839"
+            ]
+        ]
+    },
+    {
+        "id": "989905cff35df839",
+        "type": "function",
+        "z": "b5382dc0be536949",
+        "g": "289ad8130eb70a47",
+        "name": "Paid/not",
+        "func": "var paid = msg.payload;\nvar barcode = global.get('barcode');\n\nmsg.topic = \"UPDATE `data_registration_driver`.`invoice`SET    `paid_not` = \"+paid+\"    WHERE`barcode` =\"+barcode+\";\"\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 430,
+        "y": 1140,
+        "wires": [
+            [
+                "65e57efdb91f90e3"
+            ]
+        ]
+    },
+    {
+        "id": "6b605aebc84bfd91",
+        "type": "link out",
+        "z": "b5382dc0be536949",
+        "g": "289ad8130eb70a47",
+        "name": "paid",
+        "mode": "link",
+        "links": [
+            "5f55be8f00417796",
+            "d1cd42c352664fc5"
+        ],
+        "x": 455,
+        "y": 1200,
+        "wires": []
+    },
+    {
+        "id": "65e57efdb91f90e3",
+        "type": "mysql",
+        "z": "b5382dc0be536949",
+        "g": "289ad8130eb70a47",
+        "mydb": "1ba298c29d481e06",
+        "name": "",
+        "x": 630,
+        "y": 1140,
+        "wires": [
+            [
+                "6b605aebc84bfd91"
+            ]
+        ]
+    },
+    {
+        "id": "27113d4d41a8ac2d",
+        "type": "comment",
+        "z": "b5382dc0be536949",
+        "g": "6730468b2c7c59dc",
+        "name": "PAID ",
+        "info": "``",
+        "x": 170,
+        "y": 900,
+        "wires": []
+    },
+    {
+        "id": "822acf4c188242c1",
+        "type": "function",
+        "z": "b5382dc0be536949",
+        "g": "6730468b2c7c59dc",
+        "name": "paid",
+        "func": "var paid = global.get('paid');\n\nif(paid == 0){\n    msg.payload = \"មិនទាន់ទូទាត់\";\n    return msg;\n}\nif(paid == 1){\n    msg.payload = \"ទូទាត់រួច\";\n    return msg;\n}\n",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 230,
+        "y": 980,
+        "wires": [
+            [
+                "b7335a102820812f",
+                "3d89253c87eb35d3"
+            ]
+        ]
+    },
+    {
+        "id": "5e6d63a8c18b43a5",
+        "type": "link in",
+        "z": "b5382dc0be536949",
+        "g": "6730468b2c7c59dc",
+        "name": "link in 1",
+        "links": [
+            "7a6ab21d2eb29475"
+        ],
+        "x": 125,
+        "y": 980,
+        "wires": [
+            [
+                "822acf4c188242c1"
+            ]
+        ]
+    },
+    {
+        "id": "b7335a102820812f",
+        "type": "ui_text",
+        "z": "b5382dc0be536949",
+        "g": "6730468b2c7c59dc",
+        "group": "ec57cf4abf8e2e5b",
+        "order": 20,
+        "width": 13,
+        "height": 1,
+        "name": "",
+        "label": "",
+        "format": "{{msg.payload}}",
+        "layout": "row-center",
+        "className": "paid",
+        "x": 490,
+        "y": 980,
+        "wires": []
+    },
+    {
+        "id": "fa39bd40ec53e133",
+        "type": "function",
+        "z": "b5382dc0be536949",
+        "g": "736d1c64b90cd97c",
+        "name": "paid",
+        "func": "var barcode= global.get('barcode');\nmsg.topic = \"SELECT * FROM data_registration_driver.invoice where barcode = \" + barcode + \";\"\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 350,
+        "y": 160,
+        "wires": [
+            [
+                "5422925b5dcec942"
+            ]
+        ]
+    },
+    {
+        "id": "d1cd42c352664fc5",
+        "type": "link in",
+        "z": "b5382dc0be536949",
+        "g": "736d1c64b90cd97c",
+        "name": "link in 2",
+        "links": [
+            "6b605aebc84bfd91"
+        ],
+        "x": 185,
+        "y": 160,
+        "wires": [
+            [
+                "fa39bd40ec53e133"
+            ]
+        ]
+    },
+    {
+        "id": "b93d0560c166507c",
+        "type": "ui_template",
+        "z": "b5382dc0be536949",
+        "group": "77659e304352357b",
+        "name": "",
+        "order": 4,
+        "width": 0,
+        "height": 0,
+        "format": "<style>\n    .display{\n        font-size: 25px !important;\n    }\n    .paid{\n        font-size: 25px !important;\n    }\n    .btn > .md-raised{\n        font-size: 20px !important;\n    }\n</style>",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": true,
+        "templateScope": "local",
+        "className": "",
+        "x": 140,
+        "y": 1320,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "3d89253c87eb35d3",
+        "type": "ui_led",
+        "z": "b5382dc0be536949",
+        "g": "6730468b2c7c59dc",
+        "order": 18,
+        "group": "ec57cf4abf8e2e5b",
+        "width": 7,
+        "height": 4,
+        "label": "",
+        "labelPlacement": "left",
+        "labelAlignment": "left",
+        "colorForValue": [
+            {
+                "color": "#ff0000",
+                "value": "មិនទាន់ទូទាត់",
+                "valueType": "str"
+            },
+            {
+                "color": "#008000",
+                "value": "ទូទាត់រួច",
+                "valueType": "str"
+            }
+        ],
+        "allowColorForValueInMessage": false,
+        "shape": "square",
+        "showGlow": false,
+        "name": "",
+        "x": 490,
+        "y": 940,
+        "wires": []
+    }
+]
